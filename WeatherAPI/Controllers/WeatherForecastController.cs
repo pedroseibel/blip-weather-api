@@ -5,7 +5,7 @@ using Newtonsoft.Json.Linq;
 namespace WeatherAPI.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/v1/[controller]")]
     public class WeatherForecastController : ControllerBase
     {
         private readonly WeatherService _weatherService;
