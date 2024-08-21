@@ -18,7 +18,7 @@ Retorna informações de previsão do tempo para a cidade especificada.
   
 - **Exemplo de Requisição:**
 
-GET /api/v1/WeatherForecast/London
+GET /api/v1/WeatherForecast/Canoas
 
 - **Exemplo de Resposta:**
 
